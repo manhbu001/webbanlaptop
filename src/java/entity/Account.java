@@ -6,7 +6,7 @@
 package entity;
 
 /**
- *
+ * Nguyen Phuoc Manh
  * @author Admin
  */
 public class Account {
